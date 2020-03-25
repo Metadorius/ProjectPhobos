@@ -1,9 +1,9 @@
-Tiberian Sun patch
+ProjectPhobos
 ==================
 
-Patches to Tiberian Sun 2.03 for CnCNet online.
+Ares-like patches to YurisRevenge based off ts-patches.
 
-Authors
+Original ts-patches Authors
 -------
  - iran
  - FunkyFr3sh
