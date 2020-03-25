@@ -14,10 +14,9 @@ DLL_OBJS   = \
 OBJS       =  \
 			src/LoadingScreen.o \
 			
-ifdef EXPERIMENTAL
-    NFLAGS += -D EXPERIMENTAL
-    CFLAGS += -D EXPERIMENTAL
-    OBJS        +=  src/MapClass_DamageArea.o \
+ifdef dev
+    OBJS        +=  dev/MapClass_DamageArea.o \
+                    dev/new.o \
 
 
 endif
