@@ -13,6 +13,7 @@ DLL_OBJS   = \
 
 OBJS       =  \
 			src/LoadingScreen.o \
+			src/replace_shp_shadow_check.o \
 			
 ifdef dev
     OBJS        +=  dev/MapClass_DamageArea.o \
