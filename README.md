@@ -1,7 +1,7 @@
 ProjectPhobos
 ==================
 
-Ares-like patches to YurisRevenge based off ts-patches.
+Binary patches to Yuri's Revenge based off ts-patches.
 
 Original ts-patches Authors
 -------
